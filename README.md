@@ -1,5 +1,5 @@
 # Big-Ideas-Final-Project
-Team name: The Code Crusaders  
+Team name: The Code Warriors
 
 Group Member #1: Nabeel Raza   
 Email: NAR179@pitt.edu  
