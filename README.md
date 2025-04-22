@@ -4,7 +4,7 @@ Team name: The Code Warriors
 Group Member #1: Nabeel Raza   
 Email: NAR179@pitt.edu  
 
-Group Member #2: Josh Venero  
+Group Member #2: Jose Venero  
 Email: JVV9@pitt.edu  
 
 1. Police Incident Blotter  
